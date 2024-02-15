@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.15)
+
+set(laba_1)
+project("${laba_1}")
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_EXTENSIONS OFF)
+set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
+
+add_executable("${laba_1}" main.cpp)
