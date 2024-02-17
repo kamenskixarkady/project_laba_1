@@ -1,7 +1,4 @@
 *
-!menu*
-*.bmp
-!menu.bmp
 !.gitignore
 !main.cpp
 !CMakeLists.txt
